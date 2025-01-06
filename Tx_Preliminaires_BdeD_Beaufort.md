@@ -201,7 +201,7 @@ Vérifications à mener ultérieurement :
 - Comprendre les numérotations de parcelles décimales, doublons et manquantes en consultant les registres originaux aux archives départementales de Savoie
 - Idem pour les griefs sans numéros (cela ressemble à une erreur de manipulation par l’auteur du fichier Excel source, les mentions sans numéro semblent faire suite d’une mention préalable, comme si un « ;» ou autre avait décalé les données d’un champ unique
 
-## 3 - Modélisation de la BdeDl
+## 3 - Modélisation de la BdeD
 
 **Schéma du Modèle de Données**\
 ![alt text](MdeD BdeD Beaufort.jpg)\
