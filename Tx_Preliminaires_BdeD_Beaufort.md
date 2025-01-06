@@ -204,7 +204,7 @@ Vérifications à mener ultérieurement :
 ## 3 - Modélisation de la BdeD
 
 **Schéma du Modèle de Données**\
-![alt text](MdeD BdeD Beaufort.jpg)\
+![alt text](MdeD_BdeD_Beaufort.jpg)\
 **Modèle BdeD-Beaufort**\
 
 Remarque : Je n’ai pas normalisé les Griefs (22 parcelles seulement sont associées à plusieurs n° de Griefs) parce que cela n’est pas le sujet de l’étude pour l’instant (mais il faudra tout de même regarder les griefs, car sur 562 parcelles avec grief il y en a 446 avec «  erreur de propriétaire» .
