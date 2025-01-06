@@ -201,10 +201,10 @@ Vérifications à mener ultérieurement :
 - Comprendre les numérotations de parcelles décimales, doublons et manquantes en consultant les registres originaux aux archives départementales de Savoie
 - Idem pour les griefs sans numéros (cela ressemble à une erreur de manipulation par l’auteur du fichier Excel source, les mentions sans numéro semblent faire suite d’une mention préalable, comme si un « ;» ou autre avait décalé les données d’un champ unique
 
-## 3 - Modélisation de la BdeD
+## 3 - Modélisation de la BdeDl
 
 **Schéma du Modèle de Données**\
-![alt text](MdeD_BdeD_Beaufort.jpg)\
+![alt text](MdeD BdeD Beaufort.jpg)\
 **Modèle BdeD-Beaufort**\
 
 Remarque : Je n’ai pas normalisé les Griefs (22 parcelles seulement sont associées à plusieurs n° de Griefs) parce que cela n’est pas le sujet de l’étude pour l’instant (mais il faudra tout de même regarder les griefs, car sur 562 parcelles avec grief il y en a 446 avec «  erreur de propriétaire» .
