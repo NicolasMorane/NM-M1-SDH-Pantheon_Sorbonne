@@ -26,7 +26,7 @@ J’ai comme point de départ le fichier Excel « Beaufort-FICHIER-ATLAS-OK.xls 
 - Statut : cette colonne contient du texte avec des valeurs répété : « Bourgeois » «  communier » … il s’agit d’une information sur le statut du propriétaire a priori tel qu’il est inscrit sur le registre associé au cadastre
 - IND : parcelle en indivision, elle contient des valeurs « null » et quelque « O »
 - Mas : cette colonne contient du texte avec des valeurs répétées : « Roselend » « Lay » … ce sont des noms de lieux, le mot « Mas » correspond souvent à un hameau ou à un lieu-dit de la commune ou plutôt toute la zone territoriale d’influence de ce hameau
-- Nature : cette colonne contient du texte avec des valeurs répété : « Roc » « Pâturage » ; « Marais et pâturage » … qui sont des descriptions de la nature du sol
+- Nature : cette colonne contient du texte avec des valeurs récurrentes : « Roc » « Pâturage » ; « Marais et pâturage » … qui sont des descriptions de la nature du sol
 - DB : cette colonne contient des valeurs numériques 0, 1 , 2 ou 3 qui correspond aux quatre « degrés de bonté » de la parcelle. Le degré de bonté est une évaluation de la qualité (ou le rendement) du sol, faite par les agents du duché de Savoie en charge du relevé du cadastre, il a un but fiscal
 - m² : il s’agit sans doute de la surface de la parcelle en m² ; le registre du cadastre contenant de valeur de superficie selon une double mesure : la mesure de Savoie (Journaux, toises, pieds) et mesure de Piémont (Journaux, Tables, Pieds). Cette conversion a été réalisée sans doute par le créateur du fichier D.BARBERO.
 - Avoine : des valeurs null ou numérique s’étalant de 13,5 à 22
